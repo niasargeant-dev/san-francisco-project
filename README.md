@@ -17,7 +17,7 @@ This project was created as part of a group assignment to practice HTML and CSS 
 
 2. **Coordinating Group Work Efficiently**:
    - **Challenge**: With multiple team members working on different pages of the website, ensuring smooth collaboration and integration of each section was a challenge.
-   - **Solution**: The team established clear roles and communication channels, using tools like Google Drive for shared resources and GitHub for version control. Regular team meetings were held to review progress and make sure all pages followed the same structure.
+   - **Solution**: The team established clear roles and communication channels, using tools like Google Drive for shared resources. Regular team meetings were held to review progress and make sure all pages followed the same structure.
 
 ## Technologies Used
 - HTML5
