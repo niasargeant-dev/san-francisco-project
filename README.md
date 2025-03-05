@@ -24,10 +24,10 @@ This project was created as part of a group assignment to practice HTML and CSS 
 ## How to View the Project
 1. Download the repository as a ZIP file or clone it using:
 git clone https://github.com/niasargeant-dev/san-francisco-project.git
-2.Extract the files if downloaded as a ZIP.
+2. Extract the files if downloaded as a ZIP.
 3. Open index.html in a browser to view the site.
 
-##Contributors
+## Contributors
 -Nia Sargeant
 -David Breeden
 -Andrews Gutierrez
