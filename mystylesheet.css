@@ -1,0 +1,86 @@
+body {
+    background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    line-height: 1.75em;
+}
+main {
+    margin: 2em 2em;
+}
+h1, h2 {
+    color: #cc6600;
+}
+header {
+    margin: -8px;
+    padding: 40px;
+    background-color: #cc6600;
+    height: 100px;
+}
+a:hover {
+    color: tan;
+}
+nav {
+    text-align: right;
+    padding-top: 0;
+}
+nav a {
+    padding-right: 20px;
+    color: #fffbd0;
+    text-decoration: none;
+}
+.image1 {
+    margin: 1em 1em 3em;
+    float: right;
+    height: 40%;
+    width: 40%;
+    max-height: 600px;
+    max-width: 500px;
+}
+.image2 {
+    margin: 1em 1em 3em;
+    height: 50%;
+    width: 50%;
+    max-height: 800px;
+    max-width: 700px;
+}
+.cc-image1 {
+    margin: 1em 1em 3em;
+    float: right;
+    height: 50%;
+    width: 50%;
+    max-height: 400px;
+    max-width: 616px;
+}
+.ct-image1 {
+    margin: 1em 1em 3em;
+    float: right;
+    height: 50%;
+    width: 50%;
+    max-height: 400px;
+    max-width: 600px;
+}
+.f-image1 {
+    margin: 1em 1em 3em;
+    float: right;
+    height: 35%;
+    width: 35%;
+    max-height: 612px;
+    max-width: 400px;
+}
+.p-image1 {
+    margin: 1em 1em 3em;
+    float: right;
+    height: 50%;
+    width: 50%;
+    max-height: 400px;
+    max-width: 600px;
+}
+footer {
+    background-color: #cc6600;
+    color: #fffbd0;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
