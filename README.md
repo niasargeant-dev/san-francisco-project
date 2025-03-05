@@ -1,6 +1,7 @@
 # San Francisco Project
 
-This project was created as part of a group assignment to practice HTML and CSS skills. The objective was to build a five-page website about San Francisco, including key attractions. 
+This project was created as part of a group assignment to practice HTML and CSS skills. The objective was to build a five-page website about San Francisco, including key attractions. Content on this site has been obtained from various online sources and is intended for **educational purposes only**.
+
 
 ## Project Overview
 - Designed using HTML and CSS (no frameworks or templates).
@@ -8,24 +9,21 @@ This project was created as part of a group assignment to practice HTML and CSS 
 - Each page is structured with consistent design principles.
 - No JavaScript or additional programming languages used.
 
-## Website Structure
-- **index.html** - Homepage
-- **cablecars.html** - Information about San Francisco’s cable cars
-- **chinatown.html** - Overview of Chinatown
-- **fishermans_wharf.html** - Details about Fisherman’s Wharf
-- **pier39.html** - Highlights of Pier 39
-- **images/** - Folder containing all images used in the project
+## Challenges
 
-## Project Guidelines
-- No pre-made site templates were used.
-- Consistent layout across all pages.
-- Additional images were allowed to enhance the design.
+1. **Consistency**: 
+   - **Challenge**: The project required maintaining a consistent design across all five pages, including typography, color schemes, and layout structure.
+   - **Solution**: A global CSS file was created to define common styles for the entire website, ensuring consistency. Additionally, reusable components like the navigation bar and footer were implemented across all pages to maintain uniformity.
 
-## How to View the Project
-1. Download the repository as a ZIP file or clone it using:
-git clone https://github.com/niasargeant-dev/san-francisco-project.git
-2. Extract the files if downloaded as a ZIP.
-3. Open index.html in a browser to view the site.
+2. **Coordinating Group Work Efficiently**:
+   - **Challenge**: With multiple team members working on different pages of the website, ensuring smooth collaboration and integration of each section was a challenge.
+   - **Solution**: The team established clear roles and communication channels, using tools like Google Drive for shared resources and GitHub for version control. Regular team meetings were held to review progress and make sure all pages followed the same structure.
+
+## Technologies Used
+- HTML5
+- CSS
+- Responsive Design
+- VSCode
 
 ## Contributors
 - Nia Sargeant
