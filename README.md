@@ -28,8 +28,8 @@ git clone https://github.com/niasargeant-dev/san-francisco-project.git
 3. Open index.html in a browser to view the site.
 
 ## Contributors
--Nia Sargeant
--David Breeden
--Andrews Gutierrez
--Christopher Lucero
--Ramadan Hot
+- Nia Sargeant
+- David Breeden
+- Andrews Gutierrez
+- Christopher Lucero
+- Ramadan Hot
